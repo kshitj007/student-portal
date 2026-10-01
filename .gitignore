@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+students.db
+.env
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
